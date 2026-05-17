@@ -15,7 +15,7 @@
 | **Written On** | May 17, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/calles-de-oro/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Calles de Oro](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/calles-de-oro/) |
+| **Get License** | [Get a Licensing Quote for Calles de Oro](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/calles-de-oro/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Dime si esta noche nos perdemos en la ciudad
+> Bajo las luces de neón, buscando la oscuridad
+> Sabes que mi cuerpo pide un poco más de tu calor
+> Vamos a escribir la historia en estas calles de oro, mi amor
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
