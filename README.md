@@ -15,7 +15,7 @@
 | **Written On** | May 17, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/calles-de-oro/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Calles de Oro](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/calles-de-oro/) |
+| **Get License** | [License this song: Calles de Oro](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/calles-de-oro/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `d298852b1d7975d3a5fcb6960a4ff237f26b55d17871c061db55e2b9def1bd9f` |
 | **Timestamp** | May 17, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

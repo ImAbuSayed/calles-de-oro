@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Calles de Oro
+
+This log tracks the cryptographic history and versioning for the song **Calles de Oro** (calles-de-oro).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-17T16:52:06.966322 | `v1` | `d298852b1d7975d3a5fcb6960a4ff237f26b55d17871c061db55e2b9def1bd9f` | `e3b7ac733b503062189e90de318c4fd6002ed22dd71d1b7f9184df7df66d9696` | `2026-05-17_calles-de-oro-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
